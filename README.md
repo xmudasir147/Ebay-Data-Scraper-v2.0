@@ -7,9 +7,9 @@ https://youtu.be/AK7K7oP4590
 https://drive.google.com/file/d/1o3mqkzUJRVrGsNEBtzvEXos68SUXNU3O/view?usp=drive_link
 
 # Key features:
-- Get Keywords, Product urls, or store urls list as the input from the user
+- Get keywords, product urls, or store urls list as the input from the user
 - Scrape product details one by one with the capability of captcha or blocking issues
-- Export the data completion automatically, user can also export anytime manually
+- Export the data on completion automatically, user can also export anytime manually
 - Saves all time data into the SQLite3 Database
 - Notify user on email about the progress of scraping if user is far away from the pc
 - Notify user on email when it gets completed
